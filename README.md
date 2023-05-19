@@ -1,19 +1,8 @@
-# coe704252ad269771825fc1a6
+# User Profile
 
-Quick start:
+## About the Project
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
+The user profile project is a program that displays one's information. It looks like one's profile at a program. It has a little twist to it though, <b>it is responsive!</b> The star image can be filled with the golden color or not upon clicking it.
 
 ## About Scrimba
 
